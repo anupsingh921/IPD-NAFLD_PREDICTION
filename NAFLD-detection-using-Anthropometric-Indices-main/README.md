@@ -1,1 +1,0 @@
-# NAFLD-detection-using-Anthropometric-Indices
