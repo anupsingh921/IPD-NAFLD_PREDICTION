@@ -1,4 +1,4 @@
-##Overview
+##Overview##
 The prevalence of Non-Alcoholic Fatty Liver Disease (NAFLD) has reached epidemic proportions, making early detection and intervention critical. This project presents a novel method for estimating the risk of NAFLD by combining sophisticated machine learning techniques with anthropometric measurements acquired using computer vision technology.
 
 ##Key Points
