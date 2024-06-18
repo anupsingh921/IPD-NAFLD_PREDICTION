@@ -20,3 +20,9 @@ The prevalence of Non-Alcoholic Fatty Liver Disease (NAFLD) has reached epidemic
   - OpenCV for computer vision tasks.
   - Scikit-learn for machine learning models.
   - Pandas and NumPy for data manipulation and analysis.
+    
+## Contributors
+
+- **Anupkumar Singh**
+- **Sarthak Mahale**
+- **Keyur Parmar**
